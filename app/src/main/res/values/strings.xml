@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Serial Usb Application</string>
+    <string name="disconnect">disconnect</string>
+    <string name="connect">connect</string>
+    <string name="showing_result">showing result...</string>
+    <string name="send">send</string>
+    <string name="enter_a_number">enter a number</string>
+</resources>
